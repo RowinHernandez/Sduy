@@ -1,6 +1,6 @@
 # Sduy
 
-TODO: Write a gem description
+This gem only generate Sduy ipsum.....
 
 ## Installation
 
@@ -20,7 +20,8 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+This gem only generate Sduy ipsum.....
+And it dont have Usage for now......
 
 ## Contributing
 
