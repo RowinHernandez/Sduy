@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["Rowincho@live.com"]
   spec.summary       = %q{Sduy Ipsum generator}
   spec.description   = %q{Simply generates sduy ipsum}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/RowinHernandez/Sduy"
   spec.license       = "MIT"
 
   spec.rubyforge_project = "sduy"
@@ -22,5 +22,5 @@ Gem::Specification.new do |spec|
 
   spec.add_development_dependency "rspec"
   spec.add_development_dependency "bundler", "~> 1.6"
-  spec.add_development_dependency "rake", "~> 10.0"
+  spec.add_development_dependency "rake"
 end
